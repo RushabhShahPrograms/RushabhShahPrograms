@@ -69,4 +69,5 @@ Here are some ideas to get you started:
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/rushabhshah122000"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rushabhshah122000" /></a><a href="https://ko-fi.com/rushabhshah122000"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rushabhshah122000" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/rushabhshah122000"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rushabhshah122000" /></a>
+<!--<a href="https://ko-fi.com/rushabhshah122000"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="rushabhshah122000" /></a></p><br><br>-->
