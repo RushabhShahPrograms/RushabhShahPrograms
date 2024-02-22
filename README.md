@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rushabh Shah</h1>
 <h3 align="center">A passionate backend developer from India. Love to make projects using Python, AI and Ml.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushabhshahprograms&label=Profile%20views&color=0e75b6&style=flat" alt="rushabhshahprograms" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushabhshahprograms&label=Profile%20views&color=0e75b6&style=flat" alt="rushabhshahprograms" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushabhshahprograms" alt="rushabhshahprograms" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rushabh122000" target="blank"><img src="https://img.shields.io/twitter/follow/rushabh122000?logo=twitter&style=for-the-badge" alt="rushabh122000" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rushabh122000" target="blank"><img src="https://img.shields.io/twitter/follow/rushabh122000?logo=twitter&style=for-the-badge" alt="rushabh122000" /></a> </p>-->
 
 - 🔭 I’m currently working on **Recommender System**
 
@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RushabhShahPrograms&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=RushabhShahPrograms&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RushabhShahPrograms&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RushabhShahPrograms&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RushabhShahPrograms&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RushabhShahPrograms&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)-->
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
