@@ -58,12 +58,12 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=RushabhShahPrograms&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
+![](https://github-readme-stats.vercel.app/api?username=RushabhShahPrograms&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RushabhShahPrograms&theme=nord&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RushabhShahPrograms&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RushabhShahPrograms&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)-->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RushabhShahPrograms&limit=5&theme=juicyfresh&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
